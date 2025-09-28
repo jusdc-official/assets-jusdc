@@ -1,5 +1,4 @@
-const tokenList = [
-  { 
+ { 
     chain: "Ethereum", 
     address: "0x3a4184028de3f2B2fB63d596ec9101328aC7A736", 
     symbol: "JUSDC", 
@@ -9,24 +8,4 @@ const tokenList = [
     coinrankingUrl: "https://coinranking.com/coin/LRTy40dlE+jusdc-jusdc",
     decimals: 18
   },
-  { 
-    chain: "Polygon", 
-    address: "0xFfF13F7Df6db0811A45b162D5CA742f970888eE0", 
-    symbol: "JUSDC", 
-    name: "JUSDC (Polygon)", 
-    logo: "https://cdn.coinranking.com/cojKHfduR/JUSDC.PNG",
-    uuid: "LRTy40dlE",
-    coinrankingUrl: "https://coinranking.com/coin/LRTy40dlE+jusdc-jusdc",
-    decimals: 6
-  },
-  { 
-    chain: "Base", 
-    address: "0xfF9dEfDB71e9aeBA1FAAB543c5e2989f5eFc152A", 
-    symbol: "JUSDC", 
-    name: "JUSDC (Base)", 
-    logo: "https://cdn.coinranking.com/cojKHfduR/JUSDC.PNG",
-    uuid: "LRTy40dlE",
-    coinrankingUrl: "https://coinranking.com/coin/LRTy40dlE+jusdc-jusdc",
-    decimals: 18
-  }
-];
+
