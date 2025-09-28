@@ -7,5 +7,6 @@
     "symbol": "JUSDC",
     "decimals": 18,
     "status": "active",
-    "id": "0x3a4184028de3f2b2fb63d596ec9101328ac7a736"
+    "id": "0x3a4184028de3f2b2fb63d596ec9101328ac7a736",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmaEE6jZ8E8cCQ73yA7cdSyCzAjMHEdy5RgXpgmKQn2kMp"
 }
