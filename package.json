@@ -1,0 +1,21 @@
+{
+  "name": "assets-jusdc",
+  "version": "1.0.0",
+  "description": "Trust Wallet JUSDC listing",
+  "main": "fix-trust-wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusdc-official/assets-jusdc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jusdc-official/assets-jusdc/issues"
+  },
+  "homepage": "https://github.com/jusdc-official/assets-jusdc#readme"
+}
